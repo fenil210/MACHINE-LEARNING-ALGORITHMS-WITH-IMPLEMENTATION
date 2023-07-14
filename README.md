@@ -16,11 +16,11 @@ Each algorithm is implemented as a separate Python module, making it easy to und
 Requirements
 To run the code in this repository, you will need the following:
 
-Python 3.x
-NumPy
-Pandas
-Scikit-learn
+> Python 3.x
+> NumPy
+> Pandas
+> Scikit-learn
+
 You can install the required dependencies using pip:
 
-Copy code
 pip install numpy pandas scikit-learn
